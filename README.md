@@ -24,7 +24,7 @@ Welcome to the **Advanced Python for Data Science** repository! This repository 
     ```
 2. **Install the required packages**:
     ```bash
-    pip install -r requirements.txt
+    pip install pandas
     ```
 3. **Explore the notebooks**:
     Open the Jupyter notebooks in the `notebooks` directory and start experimenting with advanced data science techniques.
