@@ -1,36 +1,30 @@
-# Advanced Python for Data Science
+# Python Practice Questions for Data Science – 1000+ Challenges by Topic 🐍📊
 
-Welcome to the **Advanced Python for Data Science** repository! This repository is designed for data enthusiasts and professionals who want to delve deeper into data manipulation, analysis, and visualization using advanced Python libraries.
+Welcome to the **Python Practice Questions for Data Science** repository!  
+This collection includes **1000+ coding challenges**, with **40 questions for each major Python topic** covered in a Data Science curriculum.  
+These questions are designed to build your **logical thinking**, enhance **problem-solving skills**, and provide **real-world coding experience** using Python.
 
-## Features
-- **In-Depth Tutorials**: Detailed guides on using powerful Python libraries for data science.
-- **Hands-On Examples**: Practical, real-world examples that demonstrate advanced data manipulation and visualization techniques.
-- **Comprehensive Visualizations**: Explore a wide range of visualization techniques to represent data effectively.
-- **Well-Structured Code**: Clean, modular, and well-documented code for easy understanding and reuse.
-- **Interactive Notebooks**: Jupyter notebooks for experimenting with code and concepts.
+---
 
-## Contents
-- **Pandas**: Advanced data manipulation techniques, including multi-indexing, merging, reshaping, and time series analysis.
-- **NumPy**: Efficient numerical operations, including advanced indexing, broadcasting, and linear algebra.
-- **Matplotlib**: Creating complex and customized plots, subplots, and 3D visualizations.
-- **Seaborn**: Statistical data visualization, including pair plots, heatmaps, and categorical plots.
-- **Plotly**: Interactive and dynamic visualizations, including 3D plots, maps, and dashboards.
-- **Bokeh**: Building interactive and scalable plots and dashboards for large datasets.
+## 🧠 What You’ll Find Here
 
-## Getting Started
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/sauravyadav/advanced-python-data-science.git
-    ```
-2. **Install the required packages**:
-    ```bash
-    pip install pandas
-    ```
-3. **Explore the notebooks**:
-    Open the Jupyter notebooks in the `notebooks` directory and start experimenting with advanced data science techniques.
+- ✅ 40 coding problems **for each Python topic**
+- 🔰 Difficulty Levels: Beginner → Intermediate → Advanced
+- 📘 Topic-wise organized folders
+- 💡 Real-world problems and mini-project ideas
+- 🎯 Focused on logic, data manipulation, and analytical thinking
+- 📂 Clean file and folder structure
 
-## Contributions
-Contributions are welcome! Feel free to open issues or submit pull requests to add new features, fix bugs, or enhance documentation.
+---
 
-## License
-This repository is licensed under the MIT License.
+## 📚 How to Use
+
+1. Clone or fork this repository
+2. Browse folders by topic (e.g., `pandas_practice`, `functions_and_loops`, `file_handling`)
+3. Read the problem description in each file
+4. Solve using your preferred Python environment or notebook
+5. Submit your solutions or improvements via pull request
+
+```bash
+git clone https://github.com/sauravyadav7721/Python-Practice-Questions-for-Data-Science-1000-Challenges-by-Topic.git
+cd Python-Practice-Questions-for-Data-Science-1000-Challenges-by-Topic
